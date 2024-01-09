@@ -72,3 +72,6 @@ Visit http://localhost:3000 in your browser to use the Sticky Notes App.
     handleMouseDown(): Handles the mouse down event for dragging.
     handleMouseMove(): Handles the mouse move event for dragging within bounds.
     handleMouseUp(): Handles the mouse up event for ending dragging.
+
+## Screenshots
+![image](https://github.com/khuranajordan/react-sticky-note/assets/32005723/82bff4f8-72bb-4591-a49d-b35285b6ceed)
