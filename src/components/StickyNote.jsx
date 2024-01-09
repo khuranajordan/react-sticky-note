@@ -55,11 +55,13 @@ export default function StickyNote({
 
       const maxX =
         document.body.clientWidth - stickyNoteRef.current.offsetWidth;
+      const maxY = window.innerHeight - stickyNoteRef.current.offsetHeight;
 
       const newX = Math.min(Math.max(x, 0), maxX);
+      const newY = Math.min(Math.max(y, 0), maxY);
 
       stickyNoteRef.current.style.left = newX + "px";
-      stickyNoteRef.current.style.top = y + "px";
+      stickyNoteRef.current.style.top = newY + "px";
     }
   }
 
