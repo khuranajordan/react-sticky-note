@@ -14,6 +14,8 @@ A simple React application for managing sticky notes with draggable, resizable, 
 
 ![image](https://github.com/khuranajordan/react-sticky-note/assets/32005723/82bff4f8-72bb-4591-a49d-b35285b6ceed)
 
+**Live Demo:** [Sticky Notes App](https://remarkable-axolotl-d6ddab.netlify.app/)
+
 ## Features
 
 - **Draggable Notes**: Move your notes freely around the board.
