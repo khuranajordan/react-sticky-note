@@ -9,7 +9,6 @@ A simple React application for managing sticky notes with draggable, resizable, 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Components](#components)
-- [License](#license)
 
 ## Demo
 
